@@ -90,6 +90,6 @@ customMailer.options = {
 
 ## Important Notes
 
-Wasp Version: This fix is specifically for Wasp 0.13.2
-Update Path: Official EU domain support was added in later Wasp versions (0.15+)
-Temporary Solution: Upgrade to Wasp 0.15+ for native EU domain support
+Wasp Version: This fix is specifically for Wasp 0.13.2  
+Update Path: Official EU domain support was added in later Wasp versions (0.15+)  
+Alternative Solution: Upgrade to Wasp 0.15+ for native EU domain support
