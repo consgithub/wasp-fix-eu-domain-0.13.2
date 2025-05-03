@@ -1,6 +1,6 @@
 # Mailgun EU Domain Fix for Wasp 0.13.2
 
-A simple fix to enable Mailgun EU domain support in Wasp 0.13.2 applications before official support was added.
+A fix to enable Mailgun EU domain support in Wasp 0.13.2 applications before official support was added.
 
 ## Problem
 
